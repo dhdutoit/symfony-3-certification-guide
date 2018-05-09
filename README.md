@@ -1,4 +1,4 @@
-# Symfony 3.4 certification "guide"
+# Symfony 3.4 certification study "guide"
 
 If you are a working member of our industry getting time to study for the certification is not an easy thing to get started. Where does one start, what order does one study things in? Developers are also lazy.
 
